@@ -1,0 +1,17 @@
+.login{}
+img.elm{width:200px;height:70px;margin:0 auto;display:block}
+.logoBox{margin-top:80px}
+.loginBox{display: flex;flex-direction: column;}
+
+.loginBox .ipt{width:200px;height:40px;margin:10px auto;border:1px solid #000;display:flex;}
+.loginBox span{font:600 14px/20px "";color:blue;border-bottom:2px solid blue;width:56px;margin:0 auto}
+.loginBox .pass{width:200px;height:40px;}
+.ipt i{font:8px/40px "";color:#999}
+.ipt .text{width:140px;height:40px}
+input{border:0;background:0;font:8px/40px "";color:#999}
+
+.btnBox{margin:0 auto;width:200px}
+.btnBox input{width:200px;height:30px;font:12px/30px "";background:#00f;color:#fff}
+
+.routerBox{width:200px;margin:20px auto;text-align: center}
+.routerBox a{margin:0 10px}

@@ -1,0 +1,7 @@
+#footer{background:#fff;}
+#footer i{display:block;width:25px;height:25px;margin:0 auto;background:url(../../assets/images/footBg.png) no-repeat;background-size:50px 100px}
+#footer i.ftbg1{background-position:0 -25px;}
+#footer i.ftbg2{background-position:0 0;}
+#footer i.ftbg3{background-position:0 -75px;}
+#footer i.ftbg4{background-position:0 -50px;}
+#footer .ftchange:hover{background-position-x: -25px}

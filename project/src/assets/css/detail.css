@@ -1,0 +1,8 @@
+.detail{margin-top:40px;}
+.detailHead{overflow: hidden;align-items: center;display:flex}
+.detailLeft{margin-right:20px;flex:1;}
+.detailLeft img{margin:0;width:80px;height:80px;border-radius: 50%;display:block;margin:0 auto}
+.detailMiddle{flex:2}
+.detailRight{flex:.5;display:flex;flex-direction: column;padding:5px;justify-content: space-between;height:80px;align-items: flex-end}
+.detailRight img{display:block;width:20px;height:20px;}
+.detailFoot{padding:5px}

@@ -1,0 +1,7 @@
+.listBox .listLiBox{margin:10px 0;padding:1px;padding:10px}
+.listFlexBox{display:flex;justify-content: space-between}
+.listFlexBox .listLiLeft{display: flex}
+.listFlexBox .listLiLeft img{width:60px;height:60px}
+.listFlexBox .listLiLeft .listLiCenter{margin-left:15px;display: flex;flex-direction: column}
+.listFlexBox .listLiLeft .listLiCenter span{margin:6px 0}
+.listFlexBox .listLiLeft .listLiCenter span i{margin-right: 20px}
